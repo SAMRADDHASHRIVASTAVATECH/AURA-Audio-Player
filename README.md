@@ -30,7 +30,16 @@ Screenshots 🎨
 <img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/fd212574-a295-4360-b121-0fceca188566" />
 
 
+
+
+
+
+
+
+
+
 cd aura-neon-audio-suite
+git cloen https://github.com/SAMRADDHASHRIVASTAVATECH/AURA-Audio-Player.git
 pip install -r requirements.txt
 python aura_ui_advanced.py
 
