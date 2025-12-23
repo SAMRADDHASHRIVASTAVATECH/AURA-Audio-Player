@@ -27,8 +27,8 @@ WAV Processing & Export → Load WAV files, apply full effect chain, and render/
 Reactive Neon Orb Visualizer → Pulsing cyberpunk animation that responds to playback
 
 Screenshots 🎨
-(Add your own screenshots here once you take them — recommended: main window, preset selector, effects tree, library view, and playback in action)
-Quick Start 🛠️
+<img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/fd212574-a295-4360-b121-0fceca188566" />
+
 
 cd aura-neon-audio-suite
 pip install -r requirements.txt
