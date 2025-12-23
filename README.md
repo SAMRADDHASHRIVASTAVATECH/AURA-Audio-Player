@@ -39,10 +39,12 @@ Screenshots 🎨
 
 
 cd aura-neon-audio-suite
-git cloen https://github.com/SAMRADDHASHRIVASTAVATECH/AURA-Audio-Player.git
-pip install -r requirements.txt
-python aura_ui_advanced.py
 
+git clone https://github.com/SAMRADDHASHRIVASTAVATECH/AURA-Audio-Player.git
+
+pip install -r requirements.txt
+
+python aura_ui_advanced.py
 Launch the app
 Go to the Library tab → "Select Folder" to scan your music collection
 Double-click tracks, drag-drop files, or load WAVs for processing
